@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/15/8e/3c/158e3cb02a0a2df2b79cc15582b135bb.gif" width="100%">
+
   
   <br>
   
@@ -19,9 +19,7 @@
       </ul>
       <br>
       <div align="center">
-        <img src="https://media.tenor.com/J39yRkIevsIAAAAi/cat-pixel.gif" width="80px">
-      </div>
-    </td>
+       
   </tr>
 </table>
 <br>
@@ -37,5 +35,5 @@
 <br><br>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/71c66f54c9359e917d23d8ab1f8222c5/tumblr_inline_p7173jH1wU1r3x45q_500.gif" width="300px">
+
 </div>
